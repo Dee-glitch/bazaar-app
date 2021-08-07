@@ -1,0 +1,258 @@
+[
+  {
+    "_id": "60ec89b6c11d83d518e123c1",
+    "first_name": "Nizami",
+    "last_name": "Mursudlu",
+    "email": "nizami@mail.com",
+    "expert": "true",
+    "phone": "06-97730137",
+    "password": "123456",
+    "role": "user",
+    "active": "true",
+    "avatar": "https://yt3.ggpht.com/ytc/AAUvwnh-ggT3AdwnyIHnKgxNnb44Fy0owULurUQIN9QQrw=s900-c-k-c0x00ffffff-no-rj",
+    "orders": ["60ec9b000eb2b755602b5071"],
+    "addresses": ["60ec89b6c11d83d518e123c3"],
+    "favorites": ["60f950033b4bfd67010828f3", "60fab0f38224d543ae4e05aa"],
+    "products": [
+      "60ec9b000eb2b755602b5073",
+      "60ec9b000eb2b755602b5072",
+      "60ec9b000eb2b755602b5071"
+    ]
+  },
+  {
+    "_id": "60ec89b6c11d83d518e123c2",
+    "first_name": "Rana",
+    "last_name": "Maandag",
+    "email": "rana@mail.com",
+    "expert": "true",
+    "phone": "06-16196509",
+    "password": "123456",
+    "role": "user",
+    "active": "false",
+    "avatar": null,
+    "orders": ["60ec9b000eb2b755602b5072"],
+    "addresses": ["60ec89b6c11d83d518e123ba"],
+    "favorites": [],
+    "products": [
+      "60fab0f38224d543ae4e05a8",
+      "60fab0f38224d543ae4e05a7",
+      "60fab0f38224d543ae4e05a3",
+      "60ec9b000eb2b755602b5072"
+    ]
+  },
+  {
+    "_id": "60ec89b6c11d83d518e123c3",
+    "first_name": "Marwa",
+    "last_name": "Harmsen",
+    "email": "marwa@mail.com",
+    "expert": "true",
+    "phone": "0488 27 78118",
+    "password": "123456",
+    "role": "user",
+    "active": "false",
+    "avatar": null,
+    "orders": ["60ec9b000eb2b755602b5073"],
+    "addresses": ["60ec89b6c11d83d518e123bb"],
+    "favorites": ["60ec9b000eb2b755602b5072"],
+    "products": [
+      "60fab0f38224d543ae4e05aa",
+      "60fab0f38224d543ae4e05a9",
+      "60fab0f38224d543ae4e05a2",
+      "60ec9b000eb2b755602b5073"
+    ]
+  },
+  {
+    "_id": "60ec89b6c11d83d518e123c4",
+    "first_name": "Cemal",
+    "last_name": "Wijngaard",
+    "email": "cemal@mail.com",
+    "expert": "true",
+    "phone": "0488 59 96142",
+    "password": "123456",
+    "role": "user",
+    "active": "false",
+    "avatar": null,
+    "orders": ["60ec9b000eb2b755602b5074"],
+    "addresses": ["60ed74f4767cef2f651c64f3"],
+    "favorites": [
+      "60ec9b000eb2b755602b5072",
+      "60ec9b000eb2b755602b5074",
+      "60ec9b000eb2b755602b5073",
+      "60f7d2283b4bfd67010828e4"
+    ],
+    "products": ["60fab0f38224d543ae4e05ac", "60fab0f38224d543ae4e05ab"]
+  },
+  {
+    "_id": "60ec89b6c11d83d518e123c5",
+    "first_name": "Cemal",
+    "last_name": "Erkelens",
+    "email": "cemal1@mail.com",
+    "expert": "true",
+    "phone": "06-49576068",
+    "password": "123456",
+    "role": "admin",
+    "active": "true",
+    "avatar": null,
+    "orders": ["60ec9b000eb2b755602b5075"],
+    "addresses": ["60ec89b6c11d83d518e123bc"],
+    "favorites": [],
+    "products": [
+      "60fa8fb6c7395b797d0ef0a2",
+      "60fa8fb6c7395b797d0ef0a3",
+      "60ec9b000eb2b755602b5075"
+    ]
+  },
+  {
+    "_id": "60ec89b6c11d83d518e123c6",
+    "first_name": "Osama",
+    "last_name": "Fikkert",
+    "email": "osama@mail.com",
+    "expert": "true",
+    "phone": "06-63633671",
+    "password": "123456",
+    "role": "user",
+    "active": "true",
+    "avatar": null,
+    "orders": [],
+    "addresses": ["60ec89b6c11d83d518e123bd"],
+    "favorites": [],
+    "products": [
+      "60fa8fb6c7395b797d0ef0a1",
+      "60ec9b000eb2b755602b5076",
+      "60fa8fb6c7395b797d0ef0a1"
+    ]
+  },
+  {
+    "_id": "60ec89b6c11d83d518e123c7",
+    "first_name": "Madyan",
+    "last_name": "Penninga",
+    "email": "madyan@mail.com",
+    "expert": "true",
+    "phone": "06-42251120",
+    "password": "123456",
+    "role": "user",
+    "active": "false",
+    "avatar": null,
+    "orders": [
+      "60fa8fb6c7395b797d0ef09f",
+      "60fab0f38224d543ae4e05a6",
+      "60fab0f38224d543ae4e05a5",
+      "60fa8fb6c7395b797d0ef0a2",
+      "60ec9b000eb2b755602b5072"
+    ],
+    "addresses": ["60ec89b6c11d83d518e123be", "60ec89b6c11d83d518e123ba"],
+    "favorites": [
+      "60f82f14a294392cd1484f6c",
+      "60f82f14a294392cd1484f6d",
+      "60f955d71501296d297ddf77",
+      "60f955d71501296d297ddf78",
+      "60ed6eeb40846e186e5d7bea"
+    ],
+    "products": [
+      "60fa8fb6c7395b797d0ef09f",
+      "60fab0f38224d543ae4e05a6",
+      "60fab0f38224d543ae4e05a3",
+      "60fab0f38224d543ae4e05a5",
+      "60fa8fb6c7395b797d0ef0a2",
+      "60fa8fb6c7395b797d0ef0a3",
+      "60fab0f38224d543ae4e05a4",
+      "60fa8fb6c7395b797d0ef0a0",
+      "60ec9b000eb2b755602b5077"
+    ]
+  },
+  {
+    "_id": "60ec89b6c11d83d518e123c8",
+    "first_name": "Veronika",
+    "last_name": "Heijst",
+    "email": "veronika@mail.com",
+    "expert": "true",
+    "phone": "06-75953375",
+    "password": "ljb,hgiuhb",
+    "role": "user",
+    "active": "false",
+    "avatar": null,
+    "orders": [],
+    "addresses": ["60ec89b6c11d83d518e123c2"],
+    "favorites": [],
+    "products": [
+      "60f82f14a294392cd1484f6c",
+      "60f82f14a294392cd1484f6d",
+      "60ed6eeb40846e186e5d7bea"
+    ]
+  },
+  {
+    "_id": "60ec89b6c11d83d518e123c9",
+    "first_name": "Wael",
+    "last_name": "Kreijkes",
+    "email": "wael@mail.com",
+    "expert": "true",
+    "phone": "06-12521329",
+    "password": "12356",
+    "role": "user",
+    "active": "false",
+    "avatar": null,
+    "orders": [],
+    "addresses": ["60ec89b6c11d83d518e123c1"],
+    "favorites": [],
+    "products": [
+      "60ed6f1862bf9d2c546dd1d4",
+      "60f82ce2c7395b797d0ef094",
+      "60ed6f1862bf9d2c546dd1d4",
+      "60ec9b000eb2b755602b5075"
+    ]
+  },
+  {
+    "_id": "60ec89b6c11d83d518e123c0",
+    "first_name": "Deedee",
+    "last_name": "Sharif",
+    "email": "deedee@mail.com",
+    "expert": "true",
+    "phone": "06-86211005",
+    "password": "123456",
+    "role": "user",
+    "active": "false",
+    "avatar": null,
+    "orders": [],
+    "addresses": ["60ed753f40846e186e5d7beb"],
+    "favorites": [],
+    "products": []
+  },
+  {
+    "_id": "60f94a998b979720fc681b11",
+    "first_name": "Ghaith",
+    "last_name": "MG",
+    "email": "MG@mail.com",
+    "phone": "06-12315553",
+    "password": "12356",
+    "role": "user",
+    "active": "false",
+    "avatar": null,
+    "orders": [],
+    "addresses": ["60ec89b6c11d83d518e123bd"],
+    "favorites": [],
+    "products": [
+      "60f955d71501296d297ddf77",
+      "60f955d71501296d297ddf78",
+      "60f955d71501296d297ddf79"
+    ]
+  },
+  {
+    "_id": "60f94a998b979720fc681b10",
+    "first_name": "Naya",
+    "last_name": "GG",
+    "email": "naya@mail.com",
+    "phone": "06-13533345",
+    "password": "12356",
+    "role": "user",
+    "active": "false",
+    "avatar": null,
+    "orders": [],
+    "addresses": ["60ec89b6c11d83d518e123ba"],
+    "favorites": [],
+    "products": [
+      "60f950033b4bfd67010828f1",
+      "60f950033b4bfd67010828f2",
+      "60f950033b4bfd67010828f3"
+    ]
+  }
+]

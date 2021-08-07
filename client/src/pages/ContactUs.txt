@@ -1,0 +1,34 @@
+1. How to use emailjs.com
+    a. Go to emailjs.com and sign in
+    b. Click Email Services on the top left
+    c. Add New Service
+    d. Click Gmail (Or you can choose anyone you like, I used Gmail)
+       It automatically detected my Gmail account
+    e. Connect Account
+    f. Create Service
+       This will create your Service ID. This will be your first
+       parameter in the 
+       emailjs.sendForm(`${REACT_APP_SERVICE_ID}`, `${REACT_APP_TEMPLATE_ID}`, e.target, `${REACT_APP_USER_ID}`)
+    g. Follow the same steps for Email Templates
+    h. The Template ID is our second parameter.
+    h. Go to My Default Template 
+    i. In the Subject Area paste this: New message from {{name}}
+       You can write whatever you want, the only thing is that 
+       the word in double curly braces should match what we have in the code.
+    j. In the Content part I used this:
+        {{user_email}}
+        Dear Bazaar Team,
+        You got a new message from {{name}}:
+        {{message}}
+        Best wishes,
+        EmailJS team
+    k. To Email on the top right should be your email
+    l. for From Email use this one: {{user_email}}
+    m. Third parameter is e.target
+    n. For the fourth parameter go to Integration on the left
+       and copy the user in the middle.
+2. Go to your .env file in your client and paste this:
+    REACT_APP_SERVICE_ID='1st parameter'
+    REACT_APP_TEMPLATE_ID='2nd parameter'
+    REACT_APP_USER_ID='4th parameter'
+   and replace the parameters with yours.
